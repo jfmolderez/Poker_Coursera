@@ -1,0 +1,99 @@
+// base
+0c 0s 8s 7d 6d 6s 5c; Js 0s 8s 7d 6s 5c 4c
+// One of a kind
+2h 3d 5s 7c 9h Jd Kd; 2h 3d 5s 7c 9h Jd Kd
+2h 3d 5s 7c 9h Jd Kd; 2h 3d 5s 7c 9h Jd As
+// One Pair
+2h 3d 5s 7c 9h Jd 2d; 2h 3d 5s 7c 9h Jd As
+2h 3d 5s 7c 9h Jd 2d; 2h 3d 5s 2d 7c 9s Jh
+0h 3d 0s 7c 9h Jd 2d; Ah 3d 5s Ad 7c 9s Jh
+//Two Pairs
+Ah Ad Kh Kd 0c 8s 6c; Js 0s 8s 7d 6s 5c 4c
+Ah Ad Kh Kd 0c 8s 6c; Ah 3d 5s Ad 7c 9s Jh
+Ah Ad Kh Kd 0c 8s 6c; Ah Ad Kh Kd 0c 8s 6c
+Ah Ad Kh Kd 0c 8s 6c; Ah Ad Kh Kd 0c 8s 7d
+Ah Ad Kh Qd Qc 8s 6c; Ah Ad Kh Kd 0c 8s 6c
+Ah Ad Qh Qd Kc 2d Ks; As Ac Js Jc Qc 3d Qs
+Qh 9h 9d 8c 6s 2h 2d; 2h 2d 5s 7c 0h Jd Qd
+//Three of a kind
+Ah Ad Ac Kd 0c 8s 6c; Ah Ad As Kd 0c 8s 6c
+Ah Ad Ac Kd 0c 8s 6c; 7c Ad As Kd 0c 8s Ah
+Ah Ad Ac Kd 0c 8s 6c; Js 0s 8s 7d 6s 5c 4c
+2h 3d 5s 7c 9h Jd 2d; Ah Ad Ac Kd 0c 8s 6c
+Ah Ad Ac Kd 0c 8s 6c; Ah Ad Kh Kd 0c 8s 6c
+Ah Ad Ac Kd 0c 8s 6c; 0c 2h 7d 6d 3s 2s 2c
+// Straight
+Kh Qd Jc 0s 9h 3d 2d; 2h 3d 5s 7c 9h Jd Kd
+Kh Qd Jc 0s 9h 3d 2d; Kh Qd Jc 0s 9h 3d 2d
+0h 3d 0s 7c 9h Jd 2d; Kh Qd Jc 0s 9h 3d 2d
+Ah Ad Kh Kd 0c 8s 6c; Kh Qd Jc 0s 9h 3d 2d
+0c 2h 7d 6d 3s 2s 2c; Kh Qd Jc 0s 9h 3d 2d
+Kh Qd Jc 0s 9h 8d 7d; Kh Qd Jc 0s 9h 9d 7d
+Kh Qd Jc 0s 9h 8d 7d; As Kh Qd Jc 0s 9h 8d
+Ah Kc Jd 5h 4c 3d 2d; 6h 5h Qd Jc 4d 3d 2s
+Ah Kh Qd Jd 0d 9s 8c; Ad 2d 3d 4s 5s 6s 7c
+Ah Kh Qd Jd 0d 9s 8c; Kc Qs Jh 0h 9d 8c 7c
+Qd Jd 0d 9c 9h 8h 8s; Kc Qs Qd Js 0d Qh 9c
+Ac Kc Qd Jd 0d 5d 4d; 2c 4c 0h Jh Qh Ks As
+8c Qh Qc Jc 0h 9h 8h; 2c 4c 0h Jh Qh Ks As
+2c As 4h Ad 3h 5h 7c; 2c As 4h Ad 3h 5h Ac
+Qd Jd 0d 9c 9d 8s 8h; Ad 2c 2h 3s 4d 4h 5s
+// Flush
+Kh 0h 9h 7h 6h 3d 2d; 2h 3d 5s 7c 9h Jd Kd
+Kh 0h 9h 7h 6h 3d 2d; 2h 3d 5s 7c 9h Jd 2d
+Kh 0h 9h 7h 6h 3d 2d; 2h 3d 5s 3c 9h Jd 2d
+Kh 0h 9h 7h 6h 3d 2d; 2h 3d As 7c Ah Jd Ad
+Kh 0h 9h 7h 6h 3d 2d; Ah Kh Qd Jd 0d 9s 8c
+Kh 0h 9h 7h 6h 3d 2d; Kh 0h 9h 7h 6h 3d 2d
+Kh 0h 9h 7h 6h 3d 2d; Kd 0d 9d 7d 6d 3h 2h
+Kh 0h 9h 7h 6h 3d 2d; Kd 0d 9d 7d 6d 3h 3d
+Ah Qh 9c 8c 9h 7h 2h; Ac Qc 9h 8h 9c 7c 2c
+As Qs 9c 8s 9s 7h 2s; Ah Ad 9c 8d 9d 7d 2d
+0s 8s 6s 0d 8d 4s 2s; Jd 0d 3c Qc 4d 3d 2d
+// Straight + Flush
+Kh Qh Jd 0d 9d 3d 2d; Ah Kh Qc Jc 5c 3c 2c
+// Full House
+Kh Kd Kc 0h 0s As Qd; 2h 3d 5s 7c 9h Jd Kd
+Kh Kd Kc 0h 0s As Qd; 2h 3d 5s 7c 9h Jd 2h
+Kh Kd Kc 0h 0s As Qd; 2h 3d 5s Jc 9h Jd 2h
+Kh Kd Kc 0h 0s As Qd; Jh 3d 5s Jc 9h Jd Kd
+Kh Kd Kc 0h 0s As Qd; Ad Kd Kc Qd Jd 0h 9s
+Kh Kd Kc 0h 0s As Qd; Kh 0h 9h 7h 6h 3d 2d
+Kh Kd Kc 0h 0s As Qd; Kh Kd Kc 0h 0s As Qd
+Kh Kd Kc 0h 0s As Qd; Kh Kd Kc 0h 0s As Ac
+Kh Kd Kc 0h 0s As Qd; Kh Kd Kc 0h 0s As Jd
+Kh Kd Kc Qh Qd As Ac; Kh Kd Ks Ad Ah Js Jc
+// Four of a kind
+0h 0d 0c 0s 4c 3s 2d; 2h 3d 5s 7c 9h Jd Kd
+0h 0d 0c 0s 4c 3s 2d; 2h 3d 5s 7c 9h Jd 2d
+0h 0d 0c 0s 4c 3s 2d; 2h 3d 7s 7c 9h Jd 2d
+0h 0d 0c 0s 4c 3s 2d; Ks 3d 5s 7c Kh Jd Kd
+0h 0d 0c 0s 4c 3s 2d; 2h 3d 4s 5s 8h 9h As
+0h 0d 0c 0s 4c 3s 2d; Kd 9d 8d 7d 3d As Ah
+0h 0d 0c 0s 4c 3s 2d; Ad Ac As Kd Kh Qs Qh
+0h 0d 0c 0s 4c 3s 2d; 0h 0d 0c 0s 4c 3s 2d
+0h 0d 0c 0s 4c 3s 2d; 0h 0d 0c 0s 4c 3s 4d
+0h 0d 0c 0s 4c 3s 2d; Jh 2c 3c 2d Jc Jd Js
+// Straight Flush
+Ac Kc Qc Jc 0c 9h 8h; 2h 3d 5s 7c 9h Jd Kd
+Ac Kc Qc Jc 0c 9h 8h; 2h 3d 5s 7c 9h Jd 2d
+Ac Kc Qc Jc 0c 9h 8h; 2h 3d 5s Jc 9h Jd 2d
+Ac Kc Qc Jc 0c 9h 8h; 2h 3d 5s 7c 2c Jd 2d
+Ac Kc Qc Jc 0c 2h 3c; Ah Kh Qd Jd 0d 9s 8c
+Ac Kc Qc Jc 0c 2h 3c; Kh 0h 9h 7h 6h 3d 2d
+Ac Kc Qc Jc 0c 2h 3c; Kh Kd Ks Js Jd Qh Qd
+Ac Kc Qc Jc 0c 2h 3c; Kh 0h 9h 7h Kc Kd Ks
+Ac Kc Qc Jc 0c 9h 8h; Ac Kc Qc Jc 0c 9h 8h
+Ac Kc Qc Jc 0c 9h 8h; Ac Kc Qc Jc 0c 9h 9d
+Ac Kc Qc Jc 0c 9h 8h; Ac Kc Qd Jd 0d 9d 8d
+Ac Kc Qc Jc 0c 9h 8h; Ac Kc Qd Jd 0d 8d 7d
+Ac Kc Qc Jh 0h Jc 0c; Ad Kd Qd Js 0s Jd 0d
+Ac Kc Qc Jc 0h 9c 0c; Ac Kc 0d 9d 8d 7d 6d
+2s 3s 4s 5h 6s 8s 9h; As 2s 3s 4s 5s 8h 9h
+Ac Kc Qc Jc 0d 9c 0c; As Ad Ah Ac Kc Kd Kh
+Ac Kc Qc Jc 0d 8c 0c; As Ad Ah Ac Kc Kd Kh
+Ac Kc Qh Jh 0h 9h 8h; As Ad Ah Ac Kc Kd Kh
+Ac Kc Qd Jd 0d 5d 4d; 2c 4c 0h Jh Qh Ks As
+9h 8h Jh Qh Kh 0h 7h; 2c 4c 0h Jh Qh Ks As
+Ad Kh Qd Jh 0d Jd Kd; 3c 7d 8h 0s 4d 2d Qh
+Ah Kh Qh Jh 0d 0s 0h; 3c 7d 8h 0s 4d 2d Qh
